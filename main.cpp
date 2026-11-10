@@ -1,4 +1,4 @@
-#include "work.hpp"
+#include "work.h"
 
 int main()
 {
